@@ -7,5 +7,5 @@
 // ==/UserScript==
 
 (function(){
-  document.getElementById('question_submit_twitter').checked = true
+  document.getElementById('question_submit_twitter').checked = true;
 })();
